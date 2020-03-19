@@ -8,7 +8,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <meta name="description" content="" />
     <meta name="keywords"    content="" />
-    <meta name="viewport" content="width=1024"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
     <link href="/assets/build/css/main.css" rel="stylesheet" type="text/css"/>
     <script src="/assets/build/js/main.js"  type="text/javascript"></script>
