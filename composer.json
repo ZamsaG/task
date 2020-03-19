@@ -1,0 +1,30 @@
+{
+    "name": "admin/tasks",
+    "type": "project",
+    "authors": [
+        {
+            "name": "ZamsaG",
+            "email": "ibragim@nur.kz"
+        }
+    ],
+    "require": {
+        "php": "^7.1.3",
+        "smarty/smarty": "~3.1"
+    },
+    "require-dev": {
+    },
+    "config": {
+        "optimize-autoloader": true
+    },
+    "extra": {
+    },
+    "autoload": {
+        "files": [
+        ],
+        "psr-4": {
+        },
+        "classmap": [
+            "controller", "model"
+        ]
+    }
+}

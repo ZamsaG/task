@@ -1,0 +1,13 @@
+@import "fonts";
+@import "variables";
+@import "bootstrap";
+@import "jgrowl";
+
+div.jGrowl > .ui-state-highlight {
+  background: inherit;
+  color: inherit;
+  border: inherit;
+}
+.jGrowl-message-success { background-color: green !important; }
+.jGrowl-message-error { background-color: brown !important; }
+.jGrowl-message-info { background-color: black !important; }
